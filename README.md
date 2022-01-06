@@ -1,8 +1,3 @@
-#Classic Remastered
+# Drag and drop the folder inside of the "ClassicRemastered-main" folder into your existing Proximity template directory
 
-## Credits
-Credit to iDerp69 for their original "ClassicShifted Remastered"
-
-Ported over from MSE to Proximity by VixenEye1
-
-Special thanks: 100 cups of coffee and you
+## For Proximity 0.5.4+
